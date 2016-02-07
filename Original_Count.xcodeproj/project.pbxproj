@@ -14,6 +14,7 @@
 		FD563D511C647FA700403DC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD563D4F1C647FA700403DC2 /* LaunchScreen.storyboard */; };
 		FD563D5C1C647FA700403DC2 /* Original_CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD563D5B1C647FA700403DC2 /* Original_CountTests.swift */; };
 		FD563D671C647FA700403DC2 /* Original_CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD563D661C647FA700403DC2 /* Original_CountUITests.swift */; };
+		FD563D751C64809F00403DC2 /* 電卓.png in Resources */ = {isa = PBXBuildFile; fileRef = FD563D741C64809F00403DC2 /* 電卓.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		FD563D621C647FA700403DC2 /* Original_CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Original_CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD563D661C647FA700403DC2 /* Original_CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Original_CountUITests.swift; sourceTree = "<group>"; };
 		FD563D681C647FA700403DC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD563D741C64809F00403DC2 /* 電卓.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "電卓.png"; path = "../../電卓.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				FD563D4D1C647FA700403DC2 /* Assets.xcassets */,
 				FD563D4F1C647FA700403DC2 /* LaunchScreen.storyboard */,
 				FD563D521C647FA700403DC2 /* Info.plist */,
+				FD563D741C64809F00403DC2 /* 電卓.png */,
 			);
 			path = Original_Count;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 				FD563D511C647FA700403DC2 /* LaunchScreen.storyboard in Resources */,
 				FD563D4E1C647FA700403DC2 /* Assets.xcassets in Resources */,
 				FD563D4C1C647FA700403DC2 /* Main.storyboard in Resources */,
+				FD563D751C64809F00403DC2 /* 電卓.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
